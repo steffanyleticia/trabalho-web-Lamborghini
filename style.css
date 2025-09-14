@@ -95,8 +95,8 @@ footer {
     border-radius: 5px;
 }
 
-.btn-comprar {
-    background-color: #d40000;
+.botao-comprar {
+    background-color: red;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -107,8 +107,8 @@ footer {
     cursor: pointer;
 }
 
-.btn-comprar:hover {
-    background-color: #a00000;
+.botao-comprar:hover {
+    background-color: red;
 }
 
 #comentarios {
